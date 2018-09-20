@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-```PowerShell
+``` PowerShell
 git status
 git add
 git commit
