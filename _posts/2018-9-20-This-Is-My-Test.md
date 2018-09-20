@@ -7,7 +7,7 @@ title: This is my first test blog post!
 
 this was really easy thanks to the work done by barry clark
 
-```
-get-service
-restart-service w32time -whatif
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
 ```
