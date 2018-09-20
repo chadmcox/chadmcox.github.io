@@ -9,3 +9,8 @@ title: This is my first test blog post!
   get-server
   test-connection blah
 ```
+
+<pre><code>
+get-server
+test-connection blah
+</code></pre>
