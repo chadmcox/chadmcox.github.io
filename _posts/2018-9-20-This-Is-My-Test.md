@@ -18,3 +18,9 @@ test-connection blah
     &amp;copy; 2004 Foo Corporation
 &lt;/div&gt;
 </code></pre>
+
+`
+`get-service
+`get-addomain
+`
+`
