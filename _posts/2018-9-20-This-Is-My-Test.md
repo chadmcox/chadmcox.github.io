@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is my first test blog post!
+title: You're up and running!
 ---
 
-```
+```PowerShell
 git status
 git add
 git commit
