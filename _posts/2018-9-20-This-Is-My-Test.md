@@ -4,7 +4,10 @@ title: You're up and running!
 ---
 
 ``` PowerShell
-git status
-git add
-git commit
+get-service
+get-process | stop-process | select 1
+  name, something
+stop-service
 ```
+
+
