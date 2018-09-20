@@ -8,21 +8,9 @@ title: This is my first test blog post!
     get-server
     test-connection blah
   
-```powershell
-  get-server
-  test-connection blah
+ome basic Git commands are:
 ```
-
-<pre><code>get-server
-test-connection blah
-</code></pre>
-
-<pre><code>&lt;div class="footer"&gt;
-    &amp;copy; 2004 Foo Corporation
-&lt;/div&gt;
-</code></pre>
-
-` #Test
-` get-service
-` get-addomain
-` #test1
+git status
+git add
+git commit
+```
