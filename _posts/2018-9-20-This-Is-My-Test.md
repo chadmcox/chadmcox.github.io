@@ -9,6 +9,5 @@ this was really easy thanks to the work done by barry clark
 
 ```
 get-service
-#this gets all services
 restart-service w32time -whatif
 ```
