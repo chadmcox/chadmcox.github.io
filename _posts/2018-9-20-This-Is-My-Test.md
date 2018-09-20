@@ -5,6 +5,9 @@ title: This is my first test blog post!
 
 ## this is a test
 
+    get-server
+    test-connection blah
+  
 ```powershell
   get-server
   test-connection blah
