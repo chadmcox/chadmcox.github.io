@@ -7,9 +7,8 @@ title: This is my first test blog post!
 
 this was really easy thanks to the work done by barry clark
 
-code(
+```powershell
 get-service
 #this gets all services
 restart-service w32time -whatif
-
-)
+```
