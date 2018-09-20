@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sr Microsoft Premeir Field Engineer 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is used to document things I have created or found on the internet.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[coxchad@msn.com](mailto:coxchad@msn.com)
