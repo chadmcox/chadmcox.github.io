@@ -6,15 +6,15 @@ title: this is my test!
 this does something:
 ``` powershell
 get-service -name w32time
-get-process | stop-process | select 1
+get-process | stop-process | select 1 `
   name, something
 stop-service
 get-service -name w32time
-get-process | stop-process | select 1
+get-process | stop-process | select 1 `
   name, something
 stop-service
 get-service -name w32time
-get-process | stop-process | select 1
+get-process | stop-process | select 1 `
   name, something
 stop-service
 get-service -name w32time
