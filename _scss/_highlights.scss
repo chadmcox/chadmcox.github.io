@@ -2,11 +2,11 @@
   background-color: #012456;
   padding: 5px 10px;
   margin: 20px 0;
-  overflow: scroll
+  //overflow: scroll
 }
 
 .highlight pre {
-  // overflow: scroll; // Prefer no word wrap? Uncomment this line and comment out the 2 lines below.
+  overflow: scroll; // Prefer no word wrap? Uncomment this line and comment out the 2 lines below.
   word-break: break-all;
   word-wrap: break-word;
 }
