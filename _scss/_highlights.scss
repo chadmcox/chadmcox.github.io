@@ -1,9 +1,15 @@
-.highlight { 
-  background-color: #012456;
-  padding: 5px 10px;
-  margin: 20px 0;
+//.highlight { 
+//  background-color: #012456;
+//  padding: 5px 10px;
+//  margin: 20px 0;
   //overflow: scroll
-}
+//}
+.highlight {
+    margin: 0;
+    padding: 0;
+    background-color: initial;
+    color: #fff;
+  }
 
 .highlight pre {
   overflow: scroll; // Prefer no word wrap? Uncomment this line and comment out the 2 lines below.
