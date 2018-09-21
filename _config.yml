@@ -52,6 +52,9 @@ baseurl: "https://chadmcox.github.io/chadmcox.github.io"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+markdown: redcarpet
+
+highlighter: pygments
 
 permalink: /:title/
 
@@ -65,7 +68,7 @@ kramdown:
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    #disable: true
+    disable: true
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
