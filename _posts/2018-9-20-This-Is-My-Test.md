@@ -11,3 +11,7 @@ stop-service
 ```
 
 
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
