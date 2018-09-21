@@ -3,6 +3,8 @@ layout: post
 title: this is my test!
 ---
 
+This is a new test that is going to show off how the code blocks work.  this has not been a fun process
+
 this does something:
 ``` powershell
 get-service -name w32time
