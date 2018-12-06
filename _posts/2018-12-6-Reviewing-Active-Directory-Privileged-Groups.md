@@ -1,5 +1,5 @@
 
 ---
 layout: post
-title: You're up and running!
+title: PowerShell Script to help with reviewing Active Directory Privileged Group Members.
 ---
