@@ -1,4 +1,4 @@
-# Microsoft Office tons of failed logons in Azure AD
+# Microsoft Office lots and lots of failed logons in Azure AD
 
 I recently spent several weeks troubleshooting this issues. In this case the customer just upgraded the office 365 pro plus desktop apps and in Azure AD we noticed a huge spike in failed authentications in the millions against the Microsoft Office application.  After diving in this is what we found:
 
